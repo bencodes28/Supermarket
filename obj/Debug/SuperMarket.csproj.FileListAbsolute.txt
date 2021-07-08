@@ -1,0 +1,15 @@
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Splash.resources
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Categories.resources
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.product.resources
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.seller.resources
+C:\Users\saveh\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.SellingForm.resources
